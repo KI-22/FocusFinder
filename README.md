@@ -8,7 +8,7 @@ FocusFinder was a group final project as part of the Makers Software Development
 
 With 2-weeks, 4 team members, and the topic 'Learning', we decided to create a website in C# called FocusFinder.
 
-** _to add credits!_ **
+Co-workers: [Fliss Douglas](https://github.com/Flissd1795), [Ben Loveday](https://github.com/StrawberryScot), and [Arthur Botto](https://github.com/arthurbotto).
 
 
 # About FocusFinder
