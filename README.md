@@ -17,7 +17,7 @@
 - 'Review a Space' functionality
 
 
-**Co-workers:**
+**Team 'C-Flatters':**
 - [Fliss Douglas](https://github.com/Flissd1795)
 - [Ben Loveday](https://github.com/StrawberryScot)
 - [Arthur Botto](https://github.com/arthurbotto)
