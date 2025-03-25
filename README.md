@@ -1,7 +1,7 @@
 # FocusFinder
 
 
-# Quick Overview
+## Quick Overview
 
 **About FocusFinder:** 
 - Web application to find study spots in the UK
@@ -24,12 +24,14 @@
 
 
 
-# About FocusFinder
+## About FocusFinder
 FocusFinder was a group final project as part of the Makers Software Development Bootcamp in March 2025.
 
 With 2-weeks, 4 team members, and the topic 'Learning', we decided to create a website in C# called FocusFinder.
 
 FocusFinder is a web application designed to showcase locations around the UK that would be considered ideal study spots based on the user and their preferences. The idea was that our application would not only be ideal for those seeking a study spot, but also for anyone looking for a quiet space or a place to relax or work on other activities.
+
+
 
 ## Technologies Used
 - C#
@@ -48,6 +50,8 @@ For myself, I primarily worked with C#, HTML and .net for this project, but also
 
 Although we were given the option to use our choice of language for this project, our group unanimously agreed to use C# (as the main language). C# was the main language of the learning module that this final project was a part of and we felt it would be best to both stick with a familiar language. This allowed us to explore creating more advanced features, rather than having to learn a new language.
 
+
+
 ### Other tools used included:
 - GitHub
 - Slack
@@ -57,7 +61,7 @@ Although we were given the option to use our choice of language for this project
 
 
 
-# Demo of FocusFinder
+## Demo of FocusFinder
 
 **Demo Video 1/2:** general walkthrough [link](https://drive.google.com/file/d/1pTItBONqRRBNRpTUyix6AJ5HtaINnenu/view)
 
