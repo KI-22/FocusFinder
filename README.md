@@ -1,29 +1,33 @@
-# ** Focusfinder README in progress ** 
-#### Currently editing for portfolio use
+# Focusfinder - README in progress
 
 
-# Quick Summary
+# Overview
 
-**About FocusFinder:** web application to find UK study spots
+**About FocusFinder:** 
+- Web application to find study spots in the UK
+- Full-Stack application, built from scratch in 10 days
+- Final Project (C#) of the Makers Bootcamp for the given topic 'Learning'
 
-**Why?:** a 2-week Final Project, part of the Makers Bootcamp, for the given topic 'Learning'
+**Primary Tech Stack:** 
+- C#, ASP.NET, HTML (full list below)
 
-**Primary Tech Stack:** C#, ASP.NET, HTML (full list below)
+**Co-workers:**
+- [Fliss Douglas](https://github.com/Flissd1795)
+- [Ben Loveday](https://github.com/StrawberryScot)
+- [Arthur Botto](https://github.com/arthurbotto)
 
-**Why can't I run a copy of this project?:** We are working on this post-project. Originally hosted on Render, including database, working on redesigning to be run on localhost
+**Why can't I run a copy of this project?:** 
+- We are working on this post-project. Originally hosted on Render, including database, so working on redesigning to be run on localhost.
 
-Co-workers: [Fliss Douglas](https://github.com/Flissd1795), [Ben Loveday](https://github.com/StrawberryScot), and [Arthur Botto](https://github.com/arthurbotto).
+# In-Depth
+Further details about the project, including demo videos and personal reflections.
 
-
-# More Information
 ## About FocusFinder
 FocusFinder was a group final project as part of the Makers Software Development Bootcamp in March 2025.
 
 With 2-weeks, 4 team members, and the topic 'Learning', we decided to create a website in C# called FocusFinder.
 
-FocusFinder is a web application designed to showcase locations around the UK that would be considered ideal study spots based on the user and their preferences.
-
-The idea was that our application, if/when live, would not only be ideal for those seeking a study spot, but also for anyone looking for a quiet space or a place to relax or work on other activities.
+FocusFinder is a web application designed to showcase locations around the UK that would be considered ideal study spots based on the user and their preferences. The idea was that our application would not only be ideal for those seeking a study spot, but also for anyone looking for a quiet space or a place to relax or work on other activities.
 
 ### Technologies Used
 - C#
@@ -35,13 +39,12 @@ The idea was that our application, if/when live, would not only be ideal for tho
 - NUnit
 - Playwright
 - Render
+- API
 
 
 For myself, I primarily worked with C#, HTML and .net for this project, but also helped my co-workers with the other aspects too.
 
-Although we were given the option to use our choice of language for this project, our group unanimously agreed to use C# (as the main language). 
-
-C# was the main language of the learning module that this final project was a part of and we felt it would be best to both stick with a familiar language. This allowed us to explore creating more advanced features, rather than learning a new language.
+Although we were given the option to use our choice of language for this project, our group unanimously agreed to use C# (as the main language). C# was the main language of the learning module that this final project was a part of and we felt it would be best to both stick with a familiar language. This allowed us to explore creating more advanced features, rather than having to learn a new language.
 
 #### Other tools used included:
 - GitHub
@@ -51,19 +54,18 @@ C# was the main language of the learning module that this final project was a pa
 
 
 ## Running the project - TO EDIT
-..._mention how we ran it + how others could_...
-...
 ...
 
-## Demo of FocusFinder - TO EDIT
+
+## Demo of FocusFinder
+
+**Demo Video 1/2:** general walkthrough [link](https://drive.google.com/file/d/1pTItBONqRRBNRpTUyix6AJ5HtaINnenu/view)
+
+**Demo Video 2/2:** further look at Reviews functionality [link](https://drive.google.com/file/d/1sl6ppaYElKwe6-HIurpU5473AG_FQdHq/view)
+
 Note: 
 - Demos filmed with website on localhost, not Render.
 - recordings by [Fliss Douglas](https://github.com/Flissd1795)
-
-
-Demo Video One: general walkthrough [link](https://drive.google.com/file/d/1pTItBONqRRBNRpTUyix6AJ5HtaINnenu/view)
-
-Demo Video Two: further look at Review functionality [link](https://drive.google.com/file/d/1sl6ppaYElKwe6-HIurpU5473AG_FQdHq/view)
 
 
 
