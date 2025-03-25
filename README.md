@@ -1,4 +1,4 @@
-# Focusfinder - README in progress
+# FocusFinder
 
 
 # Quick Overview
