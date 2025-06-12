@@ -48,7 +48,7 @@ FocusFinder is a web application designed to showcase locations around the UK th
 
 For myself, I primarily worked with C#, HTML and .net for this project, but also helped my co-workers with the other aspects too.
 
-Although we were given the option to use our choice of language for this project, our group unanimously agreed to use C# (as the main language). C# was the main language of the learning module that this final project was a part of and we felt it would be best to both stick with a familiar language. This allowed us to explore creating more advanced features, rather than having to learn a new language.
+Although we were given the option to use our choice of language for this project, our group unanimously agreed to use C# (as the main language). C# was the main language of the learning module that this final project was a part of and we felt it would be best to stick with a familiar language. This allowed us to explore creating more advanced features, rather than having to learn a new language.
 
 
 
